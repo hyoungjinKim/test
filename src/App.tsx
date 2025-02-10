@@ -1,9 +1,7 @@
-import "./App.css";
-
 function App() {
   return (
     <>
-      <div>master test</div>
+      <div>rebase</div>
     </>
   );
 }
